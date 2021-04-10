@@ -18,4 +18,4 @@ python server.py <computer-ip> 3333
 ### on raspberry pi
 python client.py <computer-ip> 3333
 
-192.168.1.42
+wlan0: static ip: 192.168.1.123
